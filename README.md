@@ -70,6 +70,10 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-000?logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/Docker-000?logo=docker" />
   <img src="https://img.shields.io/badge/Git-000?logo=git" />
+  <img src="https://img.shields.io/badge/gRPC-000?logo=grpc&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/REST-000?logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/WebSocket-000?logo=socket.io&logoColor=ffffff" />
+
   
 
 </p>
