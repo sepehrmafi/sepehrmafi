@@ -82,15 +82,13 @@
 
 ### 🚀 Selected Projects
 
-#### 🔓 Public
+#### 🔒 Private / Client Work
 - **Eryx** — Service generator for both back-end and front-end developers.  
 - **EryxHub** — Cloud computing project using Docker to convert any coding project into a product.  
 - **Farapy** — A Django-based CMS (ranked among top Django CMS projects).  
 - **Boshra** — News website for Shahada Rajaei Foundation.  
 - **Pamisha** — Marketplace platform.  
 - **Loan Project** — Loan management/back-office features.  
-
-#### 🔒 Private / Client Work
 - **Marsam** — Enterprise-grade internal system (private repo, client-specific).  
 - **HayTech Services** — Backend services for agriculture-tech platform (private repo).  
 - **Data Scraper Suite** — A custom scraping and ETL pipeline for high-volume structured/unstructured data.  
