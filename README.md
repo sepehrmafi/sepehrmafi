@@ -23,13 +23,15 @@
 ---
 
 ### 💼 Working Experience
-- **Back-End Developer — HayTech** (2023–Present)  
+- **Back-End Developer — Dotin** (2024–Present)
+  
+- **Back-End Developer — HayTech** (2023–2024)  
   Building and maintaining scalable back-end services for agriculture-tech solutions.  
 
-- **Back-End Developer — Faral** (2022–2023)  
+- **Back-End Developer — Faral** (2022–2024)  
   Developed Django-based services and internal tools.  
 
-- **Freelance Developer** (2020–2022)  
+- **Freelance Developer** (2021  –2022)  
   Delivered multiple client projects including CMS platforms, scraping tools, and marketplaces.  
 
 ---
