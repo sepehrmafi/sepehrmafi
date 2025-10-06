@@ -22,20 +22,40 @@
 
 ---
 
-### About me
-- Back-End Developer with hands-on experience in **Django**, **FastAPI**, and service design.  
-- Collaborative team player; I enjoy shipping pragmatic solutions and learning fast.  
-- Currently working as a **Back-End Developer at HayTech (2023–Present)**; previously with **Faral** and freelancing.  
-- Based in **Qazvin, Iran**.  
+### 💼 Working Experience
+- **Back-End Developer — HayTech** (2023–Present)  
+  Building and maintaining scalable back-end services for agriculture-tech solutions.  
+
+- **Back-End Developer — Faral** (2022–2023)  
+  Developed Django-based services and internal tools.  
+
+- **Freelance Developer** (2020–2022)  
+  Delivered multiple client projects including CMS platforms, scraping tools, and marketplaces.  
 
 ---
 
 ### ⚙️ Tech Stack
-**Languages & Frameworks:** Python (Django, FastAPI, Flask), JavaScript, HTML/CSS  
-**Databases:** PostgreSQL, MongoDB, MySQL, SQLite  
-**Web Scraping:** Selenium, BeautifulSoup  
-**DevOps:** Docker, Ubuntu, Redis  
-**Version Control:** Git (repo structure & commands)  
+
+**Languages & Frameworks**  
+- Python (Django, FastAPI, Flask)  
+- JavaScript, TypeScript  
+- HTML5, CSS3  
+- C, C++  
+
+**Databases**  
+- PostgreSQL, MySQL, SQLite, MongoDB  
+
+**Web Scraping**  
+- Selenium, BeautifulSoup  
+
+**DevOps & Tools**  
+- Docker, Kubernetes, Ubuntu/Linux, Redis  
+- Git & GitHub (repo structuring, branching, workflow)  
+
+**Other Skills**  
+- Cloud services (AWS)  
+- API design & integration  
+- Agile/Scrum collaboration  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000?logo=python" />
@@ -46,12 +66,15 @@
   <img src="https://img.shields.io/badge/MongoDB-000?logo=mongodb" />
   <img src="https://img.shields.io/badge/Redis-000?logo=redis" />
   <img src="https://img.shields.io/badge/Docker-000?logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-000?logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-000?logo=linux" />
+  <img src="https://img.shields.io/badge/AWS-000?logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Git-000?logo=git" />
 </p>
 
 ---
 
-### 🛠 Selected Projects
+### 🚀 Selected Projects
 
 #### 🔓 Public
 - **Eryx** — Service generator for both back-end and front-end developers.  
@@ -67,13 +90,21 @@
 - **Data Scraper Suite** — A custom scraping and ETL pipeline for high-volume structured/unstructured data.  
 - **Internal CMS Tools** — Lightweight CMS extensions built for organizational needs.  
 
-
 ---
 
 ### 🎓 Education
 - B.Sc. in **Computer Science** — Islamic Azad University of Qazvin, Iran  
 - Associate in **Software Engineering** — Shahid Babaei, Qazvin  
 - Technical Diploma — Khatam Al-Anbia High School  
+
+---
+
+### 🎯 Hobbies & Interests
+- 📚 Reading technology books and articles  
+- 🧑‍💻 Learning new programming frameworks  
+- 🎶 Listening to music while coding  
+- ⚽ Playing football with friends  
+- 🎮 Gaming for fun and creativity  
 
 ---
 
