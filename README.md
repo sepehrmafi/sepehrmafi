@@ -24,6 +24,7 @@
 
 ### 💼 Working Experience
 - **Back-End Developer — Dotin** (2024–Present)
+  Worked at Datin, a leading Iranian fintech company providing core banking and digital financial solutions for banks and insurance firms.
   
 - **Back-End Developer — HayTech** (2023–2024)  
   Building and maintaining scalable back-end services for agriculture-tech solutions.  
