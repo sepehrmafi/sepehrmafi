@@ -62,6 +62,9 @@
   <img src="https://img.shields.io/badge/Redis-000?logo=redis" />
   <img src="https://img.shields.io/badge/Docker-000?logo=docker" />
   <img src="https://img.shields.io/badge/Git-000?logo=git" />
+  <img src="https://img.shields.io/badge/Selenium-000?logo=selenium&logoColor=43B02A" />
+<img src="https://img.shields.io/badge/BeautifulSoup-000?logo=python&logoColor=FFD43B" />
+
 </p>
 
 ---
