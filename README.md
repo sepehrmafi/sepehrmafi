@@ -41,19 +41,22 @@
 
 **Languages & Frameworks**  
 - Python (Django, FastAPI, Flask)  
-- JavaScript, TypeScript  
-- HTML5, CSS3  
-- C, C++  
+- HTML, CSS, JavaScript
 
 **Databases**  
-- PostgreSQL, MySQL, SQLite, MongoDB  
+- PostgreSQL, MySQL, SQLite, MongoDB, Aerospike
 
 **Web Scraping**  
 - Selenium, BeautifulSoup  
 
 **DevOps & Tools**  
-- Docker, Kubernetes, Ubuntu/Linux, Redis  
-- Git & GitHub (repo structuring, branching, workflow)  
+- Docker, Ubuntu/Linux, Redis  
+- Git & GitHub (repo structuring, branching, workflow)
+
+**Backend Communication & Integration**
+- gRPC
+- RESTful APIs
+- WebSocket
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000?logo=python" />
