@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sepehr%20Mafi%20Bordbar&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://raw.githubusercontent.com/sepehrmafi/sepehrmafi/main/9961d0df-d19c-44ff-85de-91d2121a0374.png" alt="banner" />
 </p>
 
 <h1 align="center">Sepehr Mafi Bordbar</h1>
