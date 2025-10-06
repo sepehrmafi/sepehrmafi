@@ -52,11 +52,6 @@
 - Docker, Kubernetes, Ubuntu/Linux, Redis  
 - Git & GitHub (repo structuring, branching, workflow)  
 
-**Other Skills**  
-- Cloud services (AWS)  
-- API design & integration  
-- Agile/Scrum collaboration  
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000?logo=python" />
   <img src="https://img.shields.io/badge/Django-000?logo=django" />
@@ -66,9 +61,6 @@
   <img src="https://img.shields.io/badge/MongoDB-000?logo=mongodb" />
   <img src="https://img.shields.io/badge/Redis-000?logo=redis" />
   <img src="https://img.shields.io/badge/Docker-000?logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-000?logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-000?logo=linux" />
-  <img src="https://img.shields.io/badge/AWS-000?logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Git-000?logo=git" />
 </p>
 
