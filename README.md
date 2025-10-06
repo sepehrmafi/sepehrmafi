@@ -40,8 +40,8 @@
 ### ⚙️ Tech Stack
 
 **Languages & Frameworks**  
-- Python (Django, FastAPI, Flask)  
-- HTML, CSS, JavaScript
+- Python (Django, FastAPI, Flask) — Advanced  
+- HTML, CSS, JavaScript — Intermediate  
 
 **Databases**  
 - PostgreSQL, MySQL, SQLite, MongoDB, Aerospike
@@ -73,9 +73,9 @@
   <img src="https://img.shields.io/badge/gRPC-000?logo=grpc&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/REST-000?logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/WebSocket-000?logo=socket.io&logoColor=ffffff" />
-
-  
-
+  <img src="https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E" />
 </p>
 
 ---
