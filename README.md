@@ -94,6 +94,7 @@
 - **HayTech Services** — Backend services for agriculture-tech platform (private repo).  
 - **Data Scraper Suite** — A custom scraping and ETL pipeline for high-volume structured/unstructured data.  
 rnal CMS Tools** — Lightweight CMS extensions built for organizational needs.  
+https://github.com/sepehrmafi/sepehrmafi/blob/main/Screenshot%202025-10-24%20at%204.57.png
 
 
 ---
