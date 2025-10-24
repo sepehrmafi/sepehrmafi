@@ -1,13 +1,7 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Sepehr%20Mafi%20Bordbar&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,20,50,80,100&text=Sepehr%20Mafi%20Bordbar&fontColor=ffffff&fontSize=40&animation=twinkling" alt="header" />
 </p>
-
-
 <p align="center">
   Python/Django & FastAPI enthusiast focused on building clean, reliable back-end services and developer tooling.
 </p>
