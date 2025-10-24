@@ -93,7 +93,9 @@
 - **Marsam** — Enterprise-grade internal system (private repo, client-specific).  
 - **HayTech Services** — Backend services for agriculture-tech platform (private repo).  
 - **Data Scraper Suite** — A custom scraping and ETL pipeline for high-volume structured/unstructured data.  
-- **Internal CMS Tools** — Lightweight CMS extensions built for organizational needs.  
+- **Inte![Uploading Screenshot 2025-10-24 at 4.57.33 PM.png…]()
+rnal CMS Tools** — Lightweight CMS extensions built for organizational needs.  
+
 
 ---
 
