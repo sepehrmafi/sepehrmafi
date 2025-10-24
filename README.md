@@ -3,6 +3,10 @@
   <img src="https://img.shields.io/badge/Sepehr%20Mafi%20Bordbar-Back--End%20Developer-0072ff?style=for-the-badge&logo=python&logoColor=white" alt="header" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Sepehr%20Mafi%20Bordbar-Back--End%20Developer-0072ff?style=for-the-badge&logo=python&logoColor=white" alt="header" />
+</p>
+
 
 <p align="center">
   Python/Django & FastAPI enthusiast focused on building clean, reliable back-end services and developer tooling.
