@@ -1,7 +1,9 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,20,50,80,100&text=Sepehr%20Mafi%20Bordbar&fontColor=ffffff&fontSize=40&animation=twinkling" alt="header" />
+  <img src="https://img.shields.io/badge/Sepehr%20Mafi%20Bordbar-Back--End%20Developer-0072ff?style=for-the-badge&logo=python&logoColor=white" alt="header" />
 </p>
+
+
 <p align="center">
   Python/Django & FastAPI enthusiast focused on building clean, reliable back-end services and developer tooling.
 </p>
